@@ -1,2 +1,2 @@
-# ABI-Intelligence_YZi-Labs
-1 min Pitch
+# ABI Intelligence V166 — YZi Labs
+Clinical AI for translational medicine, clinical development, and medical affairs acceleration.
